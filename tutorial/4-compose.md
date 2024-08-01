@@ -39,7 +39,7 @@ To do that it relies on a `docker-compose.yml` configuration file that describes
 
 See:
 - [Key features of Docker compose](https://docs.docker.com/compose/features-uses/) as an introduction.
-- [Compose file references](https://docs.docker.com/compose/compose-file/03-compose-file/)
+- [Compose file references](https://docs.docker.com/compose/compose-file/)
   - Most importantly the [`services`-entry reference](https://docs.docker.com/compose/compose-file/05-services/)
 
 ### Requirements
